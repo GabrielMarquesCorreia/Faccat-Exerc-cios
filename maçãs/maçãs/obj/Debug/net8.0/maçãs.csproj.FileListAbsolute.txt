@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Exercícios\maçãs\maçãs\bin\Debug\net8.0\maçãs.exe
+C:\Users\gabriel.correia\Documents\C#\Exercícios\maçãs\maçãs\bin\Debug\net8.0\maçãs.deps.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\maçãs\maçãs\bin\Debug\net8.0\maçãs.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\maçãs\maçãs\bin\Debug\net8.0\maçãs.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\maçãs\maçãs\bin\Debug\net8.0\maçãs.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\maçãs\maçãs\obj\Debug\net8.0\maçãs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Exercícios\maçãs\maçãs\obj\Debug\net8.0\maçãs.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\maçãs\maçãs\obj\Debug\net8.0\maçãs.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Exercícios\maçãs\maçãs\obj\Debug\net8.0\maçãs.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\maçãs\maçãs\obj\Debug\net8.0\maçãs.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\maçãs\maçãs\obj\Debug\net8.0\refint\maçãs.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\maçãs\maçãs\obj\Debug\net8.0\maçãs.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\maçãs\maçãs\obj\Debug\net8.0\maçãs.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\maçãs\maçãs\obj\Debug\net8.0\ref\maçãs.dll
