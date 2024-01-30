@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Antecessor\Antecessor\bin\Debug\net8.0\Antecessor.exe
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Antecessor\Antecessor\bin\Debug\net8.0\Antecessor.deps.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Antecessor\Antecessor\bin\Debug\net8.0\Antecessor.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Antecessor\Antecessor\bin\Debug\net8.0\Antecessor.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Antecessor\Antecessor\bin\Debug\net8.0\Antecessor.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Antecessor\Antecessor\obj\Debug\net8.0\Antecessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Antecessor\Antecessor\obj\Debug\net8.0\Antecessor.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Antecessor\Antecessor\obj\Debug\net8.0\Antecessor.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Antecessor\Antecessor\obj\Debug\net8.0\Antecessor.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Antecessor\Antecessor\obj\Debug\net8.0\Antecessor.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Antecessor\Antecessor\obj\Debug\net8.0\refint\Antecessor.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Antecessor\Antecessor\obj\Debug\net8.0\Antecessor.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Antecessor\Antecessor\obj\Debug\net8.0\Antecessor.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Antecessor\Antecessor\obj\Debug\net8.0\ref\Antecessor.dll
