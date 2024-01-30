@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Carro\Carro\bin\Debug\net8.0\Carro.exe
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Carro\Carro\bin\Debug\net8.0\Carro.deps.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Carro\Carro\bin\Debug\net8.0\Carro.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Carro\Carro\bin\Debug\net8.0\Carro.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Carro\Carro\bin\Debug\net8.0\Carro.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Carro\Carro\obj\Debug\net8.0\Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Carro\Carro\obj\Debug\net8.0\Carro.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Carro\Carro\obj\Debug\net8.0\Carro.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Carro\Carro\obj\Debug\net8.0\Carro.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Carro\Carro\obj\Debug\net8.0\Carro.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Carro\Carro\obj\Debug\net8.0\refint\Carro.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Carro\Carro\obj\Debug\net8.0\Carro.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Carro\Carro\obj\Debug\net8.0\Carro.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Carro\Carro\obj\Debug\net8.0\ref\Carro.dll
