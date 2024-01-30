@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Celsius\Celsius\bin\Debug\net8.0\Celsius.exe
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Celsius\Celsius\bin\Debug\net8.0\Celsius.deps.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Celsius\Celsius\bin\Debug\net8.0\Celsius.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Celsius\Celsius\bin\Debug\net8.0\Celsius.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Celsius\Celsius\bin\Debug\net8.0\Celsius.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Celsius\Celsius\obj\Debug\net8.0\Celsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Celsius\Celsius\obj\Debug\net8.0\Celsius.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Celsius\Celsius\obj\Debug\net8.0\Celsius.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Celsius\Celsius\obj\Debug\net8.0\Celsius.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Celsius\Celsius\obj\Debug\net8.0\Celsius.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Celsius\Celsius\obj\Debug\net8.0\refint\Celsius.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Celsius\Celsius\obj\Debug\net8.0\Celsius.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Celsius\Celsius\obj\Debug\net8.0\Celsius.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Celsius\Celsius\obj\Debug\net8.0\ref\Celsius.dll
