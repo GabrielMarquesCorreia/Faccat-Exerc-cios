@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Maior, menor que 10\Maior, menor que 10\bin\Debug\net8.0\Maior, menor que 10.exe
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Maior, menor que 10\Maior, menor que 10\bin\Debug\net8.0\Maior, menor que 10.deps.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Maior, menor que 10\Maior, menor que 10\bin\Debug\net8.0\Maior, menor que 10.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Maior, menor que 10\Maior, menor que 10\bin\Debug\net8.0\Maior, menor que 10.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Maior, menor que 10\Maior, menor que 10\bin\Debug\net8.0\Maior, menor que 10.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Maior, menor que 10\Maior, menor que 10\obj\Debug\net8.0\Maior, menor que 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Maior, menor que 10\Maior, menor que 10\obj\Debug\net8.0\Maior, menor que 10.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Maior, menor que 10\Maior, menor que 10\obj\Debug\net8.0\Maior, menor que 10.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Maior, menor que 10\Maior, menor que 10\obj\Debug\net8.0\Maior, menor que 10.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Maior, menor que 10\Maior, menor que 10\obj\Debug\net8.0\Maior, menor que 10.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Maior, menor que 10\Maior, menor que 10\obj\Debug\net8.0\refint\Maior, menor que 10.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Maior, menor que 10\Maior, menor que 10\obj\Debug\net8.0\Maior, menor que 10.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Maior, menor que 10\Maior, menor que 10\obj\Debug\net8.0\Maior, menor que 10.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Maior, menor que 10\Maior, menor que 10\obj\Debug\net8.0\ref\Maior, menor que 10.dll
