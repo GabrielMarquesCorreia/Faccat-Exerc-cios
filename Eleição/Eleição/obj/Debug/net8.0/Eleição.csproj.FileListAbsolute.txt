@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Eleição\Eleição\bin\Debug\net8.0\Eleição.exe
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Eleição\Eleição\bin\Debug\net8.0\Eleição.deps.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Eleição\Eleição\bin\Debug\net8.0\Eleição.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Eleição\Eleição\bin\Debug\net8.0\Eleição.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Eleição\Eleição\bin\Debug\net8.0\Eleição.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Eleição\Eleição\obj\Debug\net8.0\Eleição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Eleição\Eleição\obj\Debug\net8.0\Eleição.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Eleição\Eleição\obj\Debug\net8.0\Eleição.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Eleição\Eleição\obj\Debug\net8.0\Eleição.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Eleição\Eleição\obj\Debug\net8.0\Eleição.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Eleição\Eleição\obj\Debug\net8.0\refint\Eleição.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Eleição\Eleição\obj\Debug\net8.0\Eleição.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Eleição\Eleição\obj\Debug\net8.0\Eleição.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Eleição\Eleição\obj\Debug\net8.0\ref\Eleição.dll
