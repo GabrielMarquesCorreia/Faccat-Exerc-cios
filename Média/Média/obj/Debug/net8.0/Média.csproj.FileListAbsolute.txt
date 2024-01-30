@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Média\Média\bin\Debug\net8.0\Média.exe
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Média\Média\bin\Debug\net8.0\Média.deps.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Média\Média\bin\Debug\net8.0\Média.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Média\Média\bin\Debug\net8.0\Média.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Média\Média\bin\Debug\net8.0\Média.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Média\Média\obj\Debug\net8.0\Média.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Média\Média\obj\Debug\net8.0\Média.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Média\Média\obj\Debug\net8.0\Média.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Média\Média\obj\Debug\net8.0\Média.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Média\Média\obj\Debug\net8.0\Média.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Média\Média\obj\Debug\net8.0\refint\Média.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Média\Média\obj\Debug\net8.0\Média.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Média\Média\obj\Debug\net8.0\Média.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Média\Média\obj\Debug\net8.0\ref\Média.dll
