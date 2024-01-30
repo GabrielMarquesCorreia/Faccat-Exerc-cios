@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Positivo ou negativo\Positivo ou negativo\bin\Debug\net8.0\Positivo ou negativo.exe
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Positivo ou negativo\Positivo ou negativo\bin\Debug\net8.0\Positivo ou negativo.deps.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Positivo ou negativo\Positivo ou negativo\bin\Debug\net8.0\Positivo ou negativo.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Positivo ou negativo\Positivo ou negativo\bin\Debug\net8.0\Positivo ou negativo.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Positivo ou negativo\Positivo ou negativo\bin\Debug\net8.0\Positivo ou negativo.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Positivo ou negativo\Positivo ou negativo\obj\Debug\net8.0\Positivo ou negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Positivo ou negativo\Positivo ou negativo\obj\Debug\net8.0\Positivo ou negativo.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Positivo ou negativo\Positivo ou negativo\obj\Debug\net8.0\Positivo ou negativo.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Positivo ou negativo\Positivo ou negativo\obj\Debug\net8.0\Positivo ou negativo.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Positivo ou negativo\Positivo ou negativo\obj\Debug\net8.0\Positivo ou negativo.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Positivo ou negativo\Positivo ou negativo\obj\Debug\net8.0\refint\Positivo ou negativo.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Positivo ou negativo\Positivo ou negativo\obj\Debug\net8.0\Positivo ou negativo.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Positivo ou negativo\Positivo ou negativo\obj\Debug\net8.0\Positivo ou negativo.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Positivo ou negativo\Positivo ou negativo\obj\Debug\net8.0\ref\Positivo ou negativo.dll
