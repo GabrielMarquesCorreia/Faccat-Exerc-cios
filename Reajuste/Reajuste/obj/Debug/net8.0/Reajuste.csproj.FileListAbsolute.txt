@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Reajuste\Reajuste\bin\Debug\net8.0\Reajuste.exe
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Reajuste\Reajuste\bin\Debug\net8.0\Reajuste.deps.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Reajuste\Reajuste\bin\Debug\net8.0\Reajuste.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Reajuste\Reajuste\bin\Debug\net8.0\Reajuste.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Reajuste\Reajuste\bin\Debug\net8.0\Reajuste.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Reajuste\Reajuste\obj\Debug\net8.0\Reajuste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Reajuste\Reajuste\obj\Debug\net8.0\Reajuste.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Reajuste\Reajuste\obj\Debug\net8.0\Reajuste.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Reajuste\Reajuste\obj\Debug\net8.0\Reajuste.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Reajuste\Reajuste\obj\Debug\net8.0\Reajuste.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Reajuste\Reajuste\obj\Debug\net8.0\refint\Reajuste.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Reajuste\Reajuste\obj\Debug\net8.0\Reajuste.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Reajuste\Reajuste\obj\Debug\net8.0\Reajuste.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Reajuste\Reajuste\obj\Debug\net8.0\ref\Reajuste.dll
