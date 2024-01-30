@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Salário\Salário\bin\Debug\net8.0\Salário.exe
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Salário\Salário\bin\Debug\net8.0\Salário.deps.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Salário\Salário\bin\Debug\net8.0\Salário.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Salário\Salário\bin\Debug\net8.0\Salário.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Salário\Salário\bin\Debug\net8.0\Salário.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Salário\Salário\obj\Debug\net8.0\Salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Salário\Salário\obj\Debug\net8.0\Salário.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Salário\Salário\obj\Debug\net8.0\Salário.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Salário\Salário\obj\Debug\net8.0\Salário.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Salário\Salário\obj\Debug\net8.0\Salário.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Salário\Salário\obj\Debug\net8.0\refint\Salário.dll
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Salário\Salário\obj\Debug\net8.0\Salário.pdb
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Salário\Salário\obj\Debug\net8.0\Salário.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Exercícios\Salário\Salário\obj\Debug\net8.0\ref\Salário.dll
